@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AX",
+    "# X",
+    " BX"
+  ],
+  "key": {
+    "A": {
+      "item": "aran2k_earthmod:earth_ingot"
+    },
+    "B": {
+      "item": "aran2k_earthmod:water_ingot"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "aran2k_earthmod:earth_bow"
+  }
+}

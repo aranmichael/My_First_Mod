@@ -1,0 +1,6 @@
+{
+    "parent": "aran2k_earthmod:item/earth_bow",
+    "textures": {
+        "layer0": "aran2k_earthmod:items/earth_bow_pulling_0"
+    }
+}

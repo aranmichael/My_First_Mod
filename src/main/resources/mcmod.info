@@ -1,13 +1,13 @@
 [
 {
-  "modid": "mod1",
-  "name": "Test Mod 1",
-  "description": "Test mod.",
+  "modid": "aran2k_earthmod",
+  "name": "Earth Mod",
+  "description": "Earth mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Aran2k", "paudoauldstock"],
+  "authorList": ["krusherYT", "paudoauldstock"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],

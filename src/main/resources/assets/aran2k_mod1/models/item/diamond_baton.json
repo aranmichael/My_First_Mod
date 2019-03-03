@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "aran2k_mod1:items/diamond_baton"
-  }
-}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "aran2k_earthmod:blocks/earth_ore"
+    }
+}
