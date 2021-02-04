@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "aran2k_earthmod:earth_ingot"
+    }
+  },
+  "result": {
+    "item": "aran2k_earthmod:earth_shovel"
+  }
+}

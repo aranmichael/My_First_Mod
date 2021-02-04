@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "aran2k_earthmod:items/earth_shovel"
+    }
+}
